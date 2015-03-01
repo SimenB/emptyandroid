@@ -1,0 +1,3 @@
+# emptyandroid
+
+`./gradlew clean build`
